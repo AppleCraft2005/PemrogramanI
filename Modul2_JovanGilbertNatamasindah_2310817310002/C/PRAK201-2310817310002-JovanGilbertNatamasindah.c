@@ -5,7 +5,6 @@ void main () {
     char NIM[30];
     char KELAS_PARALEL[30];
     char TTL[30];
-    // char TANGGAL_LAHIR[30];
     char ALAMAT[30];
     char HOBBY[40];
     char NO_HP[30];
@@ -23,8 +22,7 @@ void main () {
     printf("Tempat/Tanggal Lahir : ");
     gets(TTL);
 
-    // printf("Tanggal Lahir : ");
-    // gets(TANGGAL_LAHIR);
+
 
     printf("Alamat : ");
     gets(ALAMAT);
