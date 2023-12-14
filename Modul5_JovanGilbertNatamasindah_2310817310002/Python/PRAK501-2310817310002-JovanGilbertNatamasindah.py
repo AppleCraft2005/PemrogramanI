@@ -10,7 +10,7 @@ def MaxBilangan(x,y,i,j) :
         return i
 
     elif (j >= x and j >= y and j >= i) :
-        return d
+        return j
 
 
 a, b, c, d = map(int,input("Masukkan bilangan - bilangan : ").split(" "))
